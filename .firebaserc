@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "migps-6cd27": {
+      "hosting": {
+        "app": [
+          "migps-6cd27"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "migps-6cd27"
+  }
+}
